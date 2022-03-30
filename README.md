@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julien herou
-- 👀 I’m interested in ... CSS/JS
-- 🌱 I’m currently learning ... GSAP
+- 👀 I’m interested in ... animation in CSS/JS
+- 🌱 I’m currently learning ... Vue.js & three.js
 - 💞️ I’m looking to collaborate on ... new project
 - 📫 How to reach me ... twitter.com/julienherou
 
